@@ -17,3 +17,6 @@ Note: requires `docker login`
 
 ## Run image
 `$ docker run -it --rm macabees/figlet "Hello World!"`
+
+## Help
+`$ docker run -it --rm macabees/figlet --help`
